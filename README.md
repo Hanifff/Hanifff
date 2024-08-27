@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with an MSc in
 
 ### Frameworks & Tools:
 
+![Kafka](https://img.shields.io/badge/Framework-Kafka-orange)
 ![Spark](https://img.shields.io/badge/Framework-Spark-lightblue)
 ![Hadoop](https://img.shields.io/badge/Framework-Hadoop-yellowgreen)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)
@@ -107,4 +108,4 @@ A robust Distributed Virtual Clock System designed to ensure precise time synchr
 - [LinkedIn](https://www.linkedin.com/in/haniftadjik)
 - [Personal Portfolio](https://haniftadjik.com)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Hanifff.Hanifff)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hanifff.Hanifff)
