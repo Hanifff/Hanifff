@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with an MSc in
 
 ### Languages:
 
-### Languages:
-
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
 ![Go](https://img.shields.io/badge/Language-Go-blue)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
