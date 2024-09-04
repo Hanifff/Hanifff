@@ -73,19 +73,25 @@ A recommendation system trained on the **Netflix Prize Dataset**, using **ALS** 
 
 **Tech Stack:** Hadoop, Spark, PySpark, Python, Jupyter Notebook
 
-### 3. [Distributed System](https://github.com/Hanifff/Distributed-System)
+### 3. [Conversational Assistance](https://github.com/Hanifff/ConversationalAssistance)
+
+A project focused on building a conversational AI system that can assist users with various tasks. This project leverages natural language processing and machine learning to provide intelligent and context-aware responses.
+
+**Tech Stack:** Python, NLP, Machine Learning, TensorFlow
+
+### 4. [Distributed System](https://github.com/Hanifff/Distributed-System)
 
 A project focused on building a highly efficient and scalable distributed system using **Go**. This project explores the principles of distributed computing, including fault tolerance, data consistency, and horizontal scaling.
 
 **Tech Stack:** Go, Distributed systems
 
-### 4. Web 3.0 NFT project - Private Repository
+### 5. Web 3.0 NFT project - Private Repository
 
 A cutting-edge **Web 3.0 project** focused on decentralized applications. This project leverages **blockchain** technology to enable decentralized asset management, offering secure, transparent, and efficient interactions between users. The project explores the integration of smart contracts and tokenization within the blockchain ecosystem.
 
 **Tech Stack:** Solidity, Ethereum, Web 3.0, Smart Contracts
 
-### 5. diversiTime: Distributed Virtual Clock System - Private Repository
+### 6. diversiTime: Distributed Virtual Clock System - Private Repository
 
 A robust Distributed Virtual Clock System designed to ensure precise time synchronization across distributed networks. diversiTime addresses the challenges of maintaining accurate time across multiple nodes, providing a fault-tolerant and scalable solution essential for large-scale distributed storage and networking systems.
 
