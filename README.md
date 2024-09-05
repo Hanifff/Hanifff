@@ -93,6 +93,10 @@ A robust Distributed Virtual Clock System designed to ensure precise time synchr
 
 ---
 
+#### Please note that this GitHub account is primarily used for my personal labs, study, and private projects. My professional working account is separate and private.
+
+---
+
 ## 📊 GitHub Stats
 
 ![Hanifff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanifff&show_icons=true&theme=radical)
