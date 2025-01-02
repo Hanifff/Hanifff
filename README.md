@@ -113,7 +113,7 @@ A robust Distributed Virtual Clock System designed to ensure precise time synchr
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/haniftadjik)
+- [LinkedIn](www.linkedin.com/in/haniftadjik)
 - [Personal Portfolio](https://haniftadjik.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hanifff.Hanifff)
