@@ -1,14 +1,14 @@
-# Hi there, I'm Hanif Tadjik! 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with an MSc in Computer Science. I have a keen interest in **Distributed Systems**, **Web 3.0**, and **AI**. I love building efficient and scalable systems that solve real-world problems.
+I am a Senior Consultant with an MSc degree in Computer Science. I specialize in designing and developing fault-tolerant, data-intensive, and secure systems. Passionate about AI, Web 3.0, software development and architecture, and cloud computing. 
+I have extensive experience across the technology stack. My background includes developing secure distributed systems, software engineering, data management, and the application of machine learning and AI. 
+I excel in team settings, foster innovation, and am keen to embrace new challenges.
 
 - 💼 Currently working at [Sopra Steria](https://www.soprasteria.com/)
 - 🌍 Based in Oslo, Norway
-- 🌱 I’m currently advancing my knowlege in **advanced machine learning algorithms** and **distributed systems architecture and development**
 - 👯 I’m looking to collaborate on **open-source Web 3.0 and AI projects**
-- 💬 Ask me about **Web 3.0, AI, Microservices, Distributed Systems, Cloud, Go, C#, Python, React, Vue js**
+- 💬 Ask me about **Web 3.0, AI, Distributed Systems, and Cloud.**
 - 🌐 [Visit My Portfolio](https://haniftadjik.com)
-- ⚡ Fun fact: I enjoy reading about quantum computing and its potential applications in security!
 
 ---
 
@@ -56,50 +56,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with an MSc in
 - ![Truffle](https://img.shields.io/badge/Tool-Truffle-brown)
 - ![Ganache](https://img.shields.io/badge/Tool-Ganache-purple)
 - ![Web3.js](https://img.shields.io/badge/Library-Web3.js-yellow)
-
----
-
-## 🚀 Featured Projects
-
-### 1. [SSIDD (Self-Sovereign Identity)](https://github.com/Hanifff/SSIDD)
-
-A **Self-Sovereign Identity** based, dynamic, and decentralized access control system. This project demonstrates how decentralized technologies like blockchain can be used to empower data control in various domains.
-
-**Tech Stack:** Web 3.0, C#, Go, gRPC, Smart contract
-
-### 2. [Recommendation System](https://github.com/Hanifff/Recommendation-System)
-
-A recommendation system trained on the **Netflix Prize Dataset**, using **ALS** and **FP-growth** algorithms. This system is scalable and can integrate different datasets for more personalized recommendations.
-
-**Tech Stack:** Hadoop, Spark, PySpark, Python, Jupyter Notebook
-
-### 3. [Conversational Assistance](https://github.com/Hanifff/ConversationalAssistance)
-
-A project focused on building a conversational AI system that can assist users with various tasks. This project leverages natural language processing and machine learning to provide intelligent and context-aware responses.
-
-**Tech Stack:** Python, NLP, Machine Learning, TensorFlow
-
-### 4. [Distributed System](https://github.com/Hanifff/Distributed-System)
-
-A project focused on building a highly efficient and scalable distributed system using **Go**. This project explores the principles of distributed computing, including fault tolerance, data consistency, and horizontal scaling.
-
-**Tech Stack:** Go, Distributed systems
-
-### 5. Web 3.0 NFT project - Private Repository
-
-A cutting-edge **Web 3.0 project** focused on decentralized applications. This project leverages **blockchain** technology to enable decentralized asset management, offering secure, transparent, and efficient interactions between users. The project explores the integration of smart contracts and tokenization within the blockchain ecosystem.
-
-**Tech Stack:** Solidity, Ethereum, Web 3.0, Smart Contracts
-
-### 6. diversiTime: Distributed Virtual Clock System - Private Repository
-
-A robust Distributed Virtual Clock System designed to ensure precise time synchronization across distributed networks. diversiTime addresses the challenges of maintaining accurate time across multiple nodes, providing a fault-tolerant and scalable solution essential for large-scale distributed storage and networking systems.
-
-**Tech Stack:** Go, Rust, .Net, Webassembly, gRPC, Python, Distributed Systems
-
----
-
-#### Please note that this GitHub account is primarily used for my personal labs, study, and private projects. My professional working account is separate and private.
 
 ---
 
